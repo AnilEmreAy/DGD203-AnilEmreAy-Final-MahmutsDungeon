@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\bin\Debug\net8.0\MahmutDungeonn.exe
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\bin\Debug\net8.0\MahmutDungeonn.deps.json
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\bin\Debug\net8.0\MahmutDungeonn.runtimeconfig.json
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\bin\Debug\net8.0\MahmutDungeonn.dll
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\bin\Debug\net8.0\MahmutDungeonn.pdb
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\obj\Debug\net8.0\MahmutDungeonn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\obj\Debug\net8.0\MahmutDungeonn.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\obj\Debug\net8.0\MahmutDungeonn.AssemblyInfo.cs
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\obj\Debug\net8.0\MahmutDungeonn.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\obj\Debug\net8.0\MahmutDungeonn.dll
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\obj\Debug\net8.0\refint\MahmutDungeonn.dll
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\obj\Debug\net8.0\MahmutDungeonn.pdb
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\obj\Debug\net8.0\MahmutDungeonn.genruntimeconfig.cache
+C:\Users\HP\source\repos\MahmutDungeonn\MahmutDungeonn\obj\Debug\net8.0\ref\MahmutDungeonn.dll
